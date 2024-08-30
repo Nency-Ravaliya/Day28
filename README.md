@@ -204,6 +204,16 @@ This project involves deploying a scalable, secure, and highly available e-comme
 
 ---
 
+# Output
+
+![image](https://github.com/user-attachments/assets/c7f4cca6-5bd2-42cc-8e2d-7af9608890a1)
+![image](https://github.com/user-attachments/assets/e0b7c764-88be-4adf-85f3-70b4cbef543b)
+![image](https://github.com/user-attachments/assets/b914183a-6b60-42f7-8637-d58b7e0c8c7f)
+![image](https://github.com/user-attachments/assets/f125bfca-0c7e-4a2b-a540-690eea6c68a1)
+![image](https://github.com/user-attachments/assets/dd156328-880b-4fc1-92da-0b6d2c07a783)
+![image](https://github.com/user-attachments/assets/e2d7336d-20bf-4fb8-b68d-c36a0a8d4d64)
+![image](https://github.com/user-attachments/assets/4eae1734-abbf-478b-84b2-7c6570eeb183)
+![image](https://github.com/user-attachments/assets/5725697e-f949-4bc2-bf34-cd74be470639)
+
 ## Conclusion
 By following these steps, you will have deployed a scalable and secure e-commerce platform capable of handling high traffic during major sales events. The infrastructure is designed for high availability, fault tolerance, and cost efficiency, ensuring that "ShopMax" can provide a seamless shopping experience for its customers.
-
